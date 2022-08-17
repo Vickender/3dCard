@@ -47,6 +47,6 @@ div {
     transform: rotateY(180deg);
 }
 
-.card:hover {
+.box:hover {
     transform: rotateY(180deg);
 }
