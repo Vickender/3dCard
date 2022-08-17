@@ -37,3 +37,7 @@ div {
     background-repeat: no-repeat;
     background-position: 50% 50%;
 }
+
+.front {
+    background-image: url("https: //imgbin.com/i/fav/android-chrome-512x512.png");
+}
