@@ -16,3 +16,13 @@ div {
     perspective: 800px;
     margin: 100px;
 }
+
+.card {
+
+    height: 100%;
+    width: 100%;
+    position: relative;
+    transition: 4s;
+    transform-style: preserve-3d;
+    background-color: beige;
+}
