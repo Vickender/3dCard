@@ -15,7 +15,6 @@ div {
     width: 400px;
     perspective: 800px;
     margin: 100px;
-    transition: 4s;
 }
 
 .card {
@@ -25,6 +24,7 @@ div {
     position: relative;
     transform-style: preserve-3d;
     background-color: beige;
+    transition: 4s;
 }
 
 .face {
@@ -47,6 +47,6 @@ div {
     transform: rotateY(180deg);
 }
 
-.box:hover {
+.card:hover {
     transform: rotateY(180deg);
 }
